@@ -3,3 +3,6 @@ knmlops/
 
 # Built Packages
 MLProject.egg-info/
+
+# log files
+logs/
