@@ -12,3 +12,6 @@ src/__pycache__/
 
 # MacOS Finder specific files
 .DS_Store
+
+# Data folders
+artifacts/
