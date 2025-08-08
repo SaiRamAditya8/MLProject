@@ -6,3 +6,9 @@ MLProject.egg-info/
 
 # log files
 logs/
+
+# pycache files
+src/__pycache__/
+
+# MacOS Finder specific files
+.DS_Store
