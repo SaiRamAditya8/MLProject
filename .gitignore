@@ -10,6 +10,7 @@ logs/
 # pycache files
 src/__pycache__/
 src/components/__pycache__/
+src/pipeline/__pycache__/
 
 # MacOS Finder specific files
 .DS_Store
