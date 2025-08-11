@@ -16,3 +16,6 @@ src/components/__pycache__/
 
 # Data folders
 artifacts/
+
+# Catboost specific 
+catboost_info/
