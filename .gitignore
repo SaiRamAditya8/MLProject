@@ -17,4 +17,3 @@ src/pipeline/__pycache__/
 
 # Catboost specific 
 catboost_info/
-notebook/catboost_info/
